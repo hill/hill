@@ -1,1 +1,1 @@
-![Woah!](https://github.com/hill/hill/blob/master/screenshot-15.png)
+![Woah!](https://github.com/hill/hill/blob/master/screenshot-14.png)
