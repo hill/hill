@@ -1,1 +1,1 @@
-![screenshot.png](Yay)
+![Yay](screenshot.png)
